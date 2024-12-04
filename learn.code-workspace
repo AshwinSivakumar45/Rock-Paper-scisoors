@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../learn"
+		},
+		{
+			"path": "../calculation"
+		},
+		{
+			"path": "D:/project/website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website"
+	}
+}
